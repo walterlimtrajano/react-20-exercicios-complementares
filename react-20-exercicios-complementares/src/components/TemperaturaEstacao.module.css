@@ -1,0 +1,32 @@
+ .verao {
+  background-color: orange;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.inverno {
+  background-color: lightblue;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.outono {
+  background-color: brown;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.primavera {
+  background-color: green;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+

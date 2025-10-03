@@ -1,0 +1,23 @@
+.segunda {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.sexta {
+  background-color: green;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.domingo {
+  background-color: red;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
